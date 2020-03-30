@@ -162,7 +162,18 @@ Para o denvolvimento do projeto, foi desenvolvido uma API RESTful responsável p
 <p><strong>Exemplo de Requisição</strong></p>
 <p><code>http://localhost:8080/excluirFilme/1</code></p>
 <p><strong>Exemplo de Resposta</strong></p>
-<pre>
-<p><code>200 OK</code> Conseguiu excluir o filme.</p>
-</pre>
+<pre><code>[
+    {
+        "id": 1,
+        "year": 1980,
+        "title": "Can't Stop the Music",
+        "studios": [
+            "Associated Film Distribution"
+        ],
+        "producers": [
+            "Allan Carr"
+        ],
+        "winner": true
+    }
+]</code></pre>
 <h3>
