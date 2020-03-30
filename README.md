@@ -163,6 +163,6 @@ Para o denvolvimento do projeto, foi desenvolvido uma API RESTful responsável p
 <p><code>http://localhost:8080/excluirFilme/1</code></p>
 <p><strong>Exemplo de Resposta</strong></p>
 <pre>
-<p><code>200 OK</code> Tudo funcionou porém não há informação a ser retornada.</p>
+<p><code>200 OK</code> Conseguiu excluir o filme.</p>
 </pre>
 <h3>
