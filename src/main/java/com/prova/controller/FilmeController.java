@@ -164,7 +164,7 @@ public class FilmeController {
         return ResponseEntity.status(HttpStatus.OK).body(produtora);
     }
 
-    @DeleteMapping("/movies/{id}")
+    @DeleteMapping("/excluirFilme/{id}")
     public ResponseEntity<Object> deletarFilme(@PathVariable Integer id) {
         Filme filme = filmeService.getFilmes().stream()
                 .filter(m -> m.getId() == id)
