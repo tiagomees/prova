@@ -1,9 +1,7 @@
 # Prémio Pior Filme
-Prémio Pior Filme (uma categoria do Golden Raspberry Awards) é um projeto desenvolvido para participar do processo seletivo da empresa TexoIT para a vaga de desenvolver Java Web direcionada ao Back End.
+Prémio Pior Filme (uma categoria do Golden Raspberry Awards).
 
-O projeto consiste em realizar a leitura de um arquivo .csv contendo os dados do filmes e staff indicados ao prémio permitindo consultar-los e manipular-los. 
-
-Para o denvolvimento do projeto foi desenvolvido uma API RESTful responsável pela manulipulação dos dados através dos métodos GET, POST e DELETE as operações necessária. 
+Para o denvolvimento do projeto, foi desenvolvido uma API RESTful responsável pela manulipulação dos dados através dos métodos GET, POST e DELETE. 
 
 - [Ferramentas Usadas](#ferramentas-usadas)
 - [Como executar](#como-executar)
