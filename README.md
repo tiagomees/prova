@@ -34,7 +34,7 @@ Para o denvolvimento do projeto, foi desenvolvido uma API RESTful responsável p
 <p><code>201 OK</code> O Recurso foi criado com sucesso.</p>
 <p><code>400 Bad Request</code> Problema com os parâmetros.</p>
 <p><code>404 Not Found</code> O recurso acessado não existe.</p>
-<p><code>500 Server errors</code> Algum erro no servidor, causado por erro meu.</p>
+<p><code>500 Server errors</code> Erro no servidor.</p>
 
 ## Recursos
 
