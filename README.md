@@ -1,4 +1,4 @@
-# Prémio Pior Filme
+# Prêmio Pior Filme
 Prémio Pior Filme (uma categoria do Golden Raspberry Awards).
 
 Para o denvolvimento do projeto, foi desenvolvido uma API RESTful responsável pela manulipulação dos dados através dos métodos GET, POST e DELETE. 
